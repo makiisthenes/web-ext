@@ -58,7 +58,7 @@
   ],
   "dependencies": {
     "@babel/polyfill": "7.12.1",
-    "@babel/runtime": "7.12.5",
+    "@babel/runtime": "7.21.5",
     "@cliqz-oss/firefox-client": "0.3.1",
     "@cliqz-oss/node-firefox-connect": "1.2.1",
     "@devicefarmer/adbkit": "2.11.3",
